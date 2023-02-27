@@ -9,6 +9,7 @@ public class Geeks {
 	{
 		int a = 62;
 		int b = 18;
+		int c = 36;
 		// It will return the sum of two arguments.
 		System.out.println("The sum is =" + Integer.sum(a, b));
 	}
